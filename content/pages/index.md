@@ -37,25 +37,6 @@ sections:
       url: /images/hero.png
       altText: Image alt text
       caption: Image caption
-  - type: TestimonialsSection
-    variant: variant-b
-    colors: colors-h
-    width: wide
-    height: short
-    textAlign: left
-    bottomGap: none
-    topGap: none
-    contentAlignHoriz: center
-    testimonials:
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
-        name: Isabelle Parks
-        title: Head chef at Parks
-        image:
-          type: ImageBlock
-          url: /images/isabelle-parks.jpg
-          altText: Isabelle Parks
   - type: TextSection
     colors: colors-f
     width: wide
