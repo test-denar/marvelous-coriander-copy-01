@@ -72,25 +72,6 @@ sections:
           type: ImageBlock
           url: /images/isabelle-parks.jpg
           altText: Isabelle Parks
-  - type: CtaSection
-    variant: variant-b
-    colors: colors-c
-    width: wide
-    height: short
-    textAlign: left
-    contentAlignHoriz: center
-    contentWidth: medium
-    bottomGap: none
-    topGap: none
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
   - type: TextSection
     colors: colors-f
     width: wide
