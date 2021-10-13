@@ -17,6 +17,7 @@ sections:
     feature:
       type: ImageBlock
       altText: Fisherman holding lobster
+      url: /images/about.jpg
     form:
       type: FormBlock
       idAttr: contact-form
